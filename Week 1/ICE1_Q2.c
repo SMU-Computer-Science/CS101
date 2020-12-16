@@ -1,4 +1,4 @@
-#Solution by Jayden
+#Solutions by Jayden
 
 #include <stdio.h>
 
